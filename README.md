@@ -6,7 +6,7 @@
 - [ ] Lógica Pyhton
 - [ ] Funções
 - [ ] Classes
-- [ ] Móddulos
+- [ ] Módulos
 - [ ] PySide6
 - [ ] Banco de Dados com Python
 - [ ] Django Básico
