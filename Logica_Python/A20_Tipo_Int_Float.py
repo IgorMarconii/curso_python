@@ -7,4 +7,4 @@ print(-0)
 print(1.1)
 
 #Função type retorna qual tipo do dado que está sendo informado
-print(type(1),type(''),type(1.0),type(True))
+print(type(1),type(''),type(1.0),type(True)) 
